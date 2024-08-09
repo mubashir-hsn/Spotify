@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+     justify-content: center;
+    align-items: center; 
+}
+.flex_col{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.flex-start{
+    display: flex;
+    justify-content: start;
+   align-items: center; 
+}
+.flex-between{
+    display: flex;
+    justify-content: space-between;
+   align-items: start; 
+}
+.hover :hover{
+    color: #ffffff;
+}
+
+.active{
+    color: #ffffff;
+}
